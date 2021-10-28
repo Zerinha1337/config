@@ -1,0 +1,2 @@
+hash -d cac=/home/zera/.cache 
+hash -d bf=/home/zera/.config/shell/bm-files 
